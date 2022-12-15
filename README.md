@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m an Automation student who want to bride his knowledge on all of STEM concepts, specialty math, robotics, programming, machine learning. I haven’t yet worked on a real-life tough engineering problem, but I would like to try and see if I could perform good in it too. 
+I’m an Automation student who want to bride his knowledge on STEM concepts, specialty math, robotics, programming, machine learning. I haven’t yet worked on a real-life tough engineering problem, but I would like to try and see if I could perform good in it too. 
 
 I’m currently working on documentation to my hexapod robot and learning machine learning to my upcoming project on European Astro pi project, I have hope that me and my team can win the whole contest this time. 
 
