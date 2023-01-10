@@ -9,4 +9,4 @@ In addition to all of that I work on a Minecraft server with a couple of friends
 
 I set MIT license to everything i do, so if you want to use any of my work feel free to do it.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaJMaN4"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=DaJMaN4](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DaJMaN4&layout=compact)"/>
