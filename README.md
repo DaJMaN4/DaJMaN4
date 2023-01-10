@@ -6,3 +6,5 @@ I’m currently working on documentation for my hexapod robot and learning machi
 I like math and creating my own ways of solving complex mathematical problems, even though I didn’t learn much mathematics in school, at this year's Norwegian math contest I was in best 20% of the best results, even though the last time I had math in school was one and a half year ago and I had just some basic math then. I could compete with students that are taking 3 levels higher in math than I ever was.
 
 In addition to all of that I work on a Minecraft server with a couple of friends, I have the role of developer, so I am making plugins for that server for players to have a good time on, this isn’t something that we think we could ever profit from, but it is fun to create that and have a server with a good community. Some of the plugins I create for that server I post also here. 
+
+I set MIT license to everything i do, so if you want to use any of my work feel free to do it.
