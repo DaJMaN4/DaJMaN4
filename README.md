@@ -8,3 +8,5 @@ I like math and creating my own ways of solving complex mathematical problems, e
 In addition to all of that I work on a Minecraft server with a couple of friends, I have the role of developer, so I am making plugins for that server for players to have a good time on, this isn’t something that we think we could ever profit from, but it is fun to create that and have a server with a good community. Some of the plugins I create for that server I post also here. 
 
 I set MIT license to everything i do, so if you want to use any of my work feel free to do it.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?DaJMaN4=zluvsand&layout=compact"/>
